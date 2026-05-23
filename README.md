@@ -25,14 +25,3 @@ Il parco mezzi è composto da un array statico di 5 biciclette precaricate con i
 * **Bici ID 3:** *Non Disponibile* | Autonomia: 20.6 km | Coordinate: (44.53, 11.37)
 * **Bici ID 4:** Disponibile | Autonomia: 15.8 km | Coordinate: (44.51, 11.39)
 * **Bici ID 5:** *Non Disponibile* | Autonomia: 17.8 km | Coordinate: (44.51, 11.33)
-
----
-
-## 🛠️ Istruzioni di Compilazione Dettagliate
-
-Il programma è scritto in C++ standard e non richiede librerie esterne di terze parti. Può essere compilato su qualsiasi sistema operativo.
-
-### Opzione 1: Da Terminale (Consigliato per Linux, macOS e Windows con MinGW)
-1. Apri il terminale o il prompt dei comandi.
-2. Spostati nella cartella in cui hai salvato il file `main.cpp` usando il comando `cd` (es. `cd Documenti/ProgettoEBike`).
-3. Compila il file usando il compilatore `g++` con il seguente comando:
