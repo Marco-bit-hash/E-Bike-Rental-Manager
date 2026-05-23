@@ -1,5 +1,4 @@
-# Scrittura del file README.md per il progetto E-Bike Rental Manager
-readme_content = """# E-Bike Rental Manager 🚲🔋
+# E-Bike Rental Manager 🚲🔋
 
 Un prototipo di applicazione gestionale scritta in **C++** (interfaccia a riga di comando) pensata per gestire un servizio di noleggio di biciclette elettriche. Il programma permette di localizzare i mezzi più vicini rispetto alla posizione dell'utente, verificarne l'autonomia residua, simulare i tempi di viaggio (con tanto di imprevisti e traffico casuale) e calcolare la fattura finale.
 
